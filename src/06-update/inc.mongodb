@@ -1,0 +1,13 @@
+use('store')
+
+db.products.updateOne(
+// query
+{_id: 2}, 
+// change => operattors
+{
+    $inc: {
+        price: 500,
+    }
+}
+)
+
