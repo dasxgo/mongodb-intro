@@ -1,3 +1,0 @@
-use('store')
-
-db.products.find()
