@@ -5,7 +5,7 @@ db.iot.updateOne({
     date: "2022-01-04",
   }, {
     $push: {
-      readings: 2538
+      readings: 2732
     }
   }, {
     upsert: true
