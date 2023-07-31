@@ -1,7 +1,0 @@
-use("store")
-
-db.iot.insertOne({
-    sensor: "A001",
-    date: "2022-01-03",
-    readings: [1212]
-})

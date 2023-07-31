@@ -1,0 +1,32 @@
+use("store")
+
+// insertar primera lectura con insertOne 
+
+//db.iot.insertOne({
+//    sensor: "A001",
+//    date: "2022-01-03",
+//   readings: [1212]
+//  })
+
+// elimina registo con pop
+
+//db.iot.updateOne({
+//  sensor: "A001",
+//  date: "2022-01-03",
+//}, {
+//  $pop: {
+//    readings: 1
+//  }
+//})
+
+//insertar nueva lectura updateOne - $push
+
+db.iot.updateOne({
+    sensor: "A001",
+   date: "2022-01-03",
+  }, {
+    $push: {
+      readings: 2323
+    }
+  })
+
