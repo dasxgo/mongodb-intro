@@ -1,0 +1,12 @@
+use("store")
+
+db.iot.updateManu(
+    // query
+    { sensor: 'A001'},
+    // update
+    { 
+        $pull : {
+            readings: { $get: 3}
+        }
+    }
+)
