@@ -1,14 +1,15 @@
 ## Resumen 
 
-Todas las consultas se pueden efectuar correctamente sin usar el operador $regex.
-Consultas
+### Todas las consultas se pueden efectuar correctamente sin usar el operador $regex.
 
-/line/ => nos devuelve los doc que tengan la palabra line, exactamente como esta escrita.
+## Consultas
 
-/line/i => nos devuelve los doc que tengan la palabra line, ignorando minus-mayus.
+### /line/ => nos devuelve los doc que tengan la palabra line, exactamente como esta escrita.
 
-/line$/ => nos devuelve los doc que terminen con la palabra line.
+### /line/i => nos devuelve los doc que tengan la palabra line, ignorando minus-mayus.
 
-/^Single/ => nos devuelve los doc que empiecen con la palabra Single.
+### /line$/ => nos devuelve los doc que terminen con la palabra line.
 
-/^S/m => nos devuelve los doc que empiecen por S, ignorando los saltos de linea. Ej:( Single line Second line ).
+### /^Single/ => nos devuelve los doc que empiecen con la palabra Single.
+
+### /^S/m => nos devuelve los doc que empiecen por S, ignorando los saltos de linea. Ej:( Single line Second line ).
