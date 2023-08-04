@@ -1,4 +1,4 @@
-## Listado de operadores de actualización:
+# Listado de operadores de actualización:
 
 ### $inc: Incrementa el valor de un atributo numérico en una cantidad específica.
 
