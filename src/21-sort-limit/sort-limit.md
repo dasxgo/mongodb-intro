@@ -1,4 +1,4 @@
-## Sort - Limit - Skip
+# Sort - Limit - Skip
 
 ### .sort() => para ordenar los doc, con un 1 de menor a mayor o de la A a la Z y con un -1 al contrario ( 10-0, Z-A).
 

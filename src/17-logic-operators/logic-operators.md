@@ -1,4 +1,4 @@
-## logic operators
+# logic operators
 
 ### $and => que cumpla las dos o más condiciones dadas.
 

@@ -1,4 +1,4 @@
-## Resumen 
+# Resumen 
 
 ### Todas las consultas se pueden efectuar correctamente sin usar el operador $regex.
 

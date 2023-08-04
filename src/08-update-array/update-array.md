@@ -1,4 +1,4 @@
-## Con los siguientes operadores podremos modificar los documentos que dentro contengan un array:
+# Con los siguientes operadores podremos modificar los documentos que dentro contengan un array:
 
 ### $push: Agrega un elemento en el array.
 

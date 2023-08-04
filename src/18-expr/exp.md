@@ -1,4 +1,4 @@
-## Expresive operator ($expr)
+# Expresive operator ($expr)
 
 ### Sirve para comparar valores en el mismo documento.
 

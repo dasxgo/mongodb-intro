@@ -1,4 +1,4 @@
-## Operadores de arrays:
+# Operadores de arrays:
 
 ### $in => para seleccionar documentos que tengan un campo con un valor que coincida con cualquiera de los valores especificados en un array.
 
