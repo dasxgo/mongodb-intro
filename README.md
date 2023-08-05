@@ -1,7 +1,7 @@
 # MongoDB
-MongoDB - NoSQL fundamentals
+ MongoDB - NoSQL fundamentals
 
-## Use
+## Contents
 - Insert
 - Upload docs
 - Array update
