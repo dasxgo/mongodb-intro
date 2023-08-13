@@ -1,14 +1,14 @@
 # MongoDB
-MongoDB - NoSQL fundamentals
+ MongoDB - NoSQL fundamentals
 
-## Use
+## Contents
 - Insert
 - Upload docs
 - Array update
 - Drop docs
 - $eq and $neq
 - $gt, $gte, $lt, $lte
-- -Projection
+- Projection
 - Arrays operator
 - Logic operators
 - Expresive operator
