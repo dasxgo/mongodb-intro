@@ -1,7 +1,7 @@
-# MongoDB
- MongoDB - NoSQL fundamentals
+# Overview 
+MongoDB - NoSQL fundamentals
 
-## Contents
+## Tabla of Contents
 - Insert
 - Upload docs
 - Array update
