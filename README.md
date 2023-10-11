@@ -1,5 +1,5 @@
 # Overview 
-This repository contains MongoDB - NoSQL fundamentals
+This repository contains code of MongoDB - NoSQL fundamentals
 
 ## Tabla of Contents
 - Insert
